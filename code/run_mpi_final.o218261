@@ -1,0 +1,25 @@
+RANK 10 at BARRIER wit nodeTotal = 4.211984
+RANK 11 at BARRIER wit nodeTotal = 4.310298
+RANK 0 at BARRIER wit nodeTotal = 8.708626
+RANK 3 at BARRIER wit nodeTotal = 3.760205
+RANK 2 at BARRIER wit nodeTotal = 4.277892
+RANK 8 at BARRIER wit nodeTotal = 4.101765
+RANK 9 at BARRIER wit nodeTotal = 4.195029
+RANK 6 at BARRIER wit nodeTotal = 4.014811
+RANK 5 at BARRIER wit nodeTotal = 4.175325
+RANK 7 at BARRIER wit nodeTotal = 4.102698
+RANK 4 at BARRIER wit nodeTotal = 4.175875
+Rank 0 time: 8.708626
+Rank 1 time: 4.153228
+Rank 2 time: 4.277892
+Rank 3 time: 3.760205
+Rank 4 time: 4.175875
+Rank 5 time: 4.175325
+Rank 6 time: 4.014811
+Rank 7 time: 4.102698
+Rank 8 time: 4.101765
+Rank 9 time: 4.195029
+Rank 10 time: 4.211984
+Rank 11 time: 4.310298
+Total time: 8.710625
+RANK 1 at BARRIER wit nodeTotal = 4.153228

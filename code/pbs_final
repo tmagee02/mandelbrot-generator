@@ -1,0 +1,11 @@
+#!/bin/bash
+#PBS -l nodes=12:ppn=12,walltime=00:00:45
+#PBS -q batch
+#PBS -N run_mpi_final
+#PBS -j oe
+#PBS -V
+
+#cat $PBS_NODEFILE
+cd ~/mpi_final
+export OMP_NUM_THREADS=12
+mpiexec -np 12 --map-by ppr:1:node -bind-to none --hostfile $PBS_NODEFILE ./mandelbrot.x
